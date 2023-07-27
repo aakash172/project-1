@@ -10,6 +10,12 @@ module.exports = {
         primary:'#F5385D',
       },
     },
+    // screens: {
+    //   'vss': '100px',
+    //   // => @media (min-width: 640px) { ... }
+
+     
+    // },
   },
   plugins: [],
 }
